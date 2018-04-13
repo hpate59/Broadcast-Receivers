@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project3-APP2</string>
+    <string name="permission_label">Permission Label</string>
+    <string name="permission_description">Permission Description</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/id_attractions"
+        android:title="See Attractions"
+        android:orderInCategory="100"
+        />
+
+
+    <item
+        android:id="@+id/id_restaurants"
+        android:title="See Restaurants"
+        android:orderInCategory="102"/>
+
+</menu>

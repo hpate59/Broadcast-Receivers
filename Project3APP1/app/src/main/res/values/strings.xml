@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project3-APP1</string>
+    <string name="permission_label">Permission to access application 2.</string>
+    <string name="permission_description">Open App2 to see attractions and restaurants in chicago.</string>
+</resources>
